@@ -1,0 +1,26 @@
+[
+    {
+        "status": "ack",
+        "level": "WARN",
+        "title": "Clus-A1 Overheat (75>70)",
+        "message": "CPU has been overheat for over 1 hour.",
+        "source": "clus-a1",
+        "occurances": [1574974169]
+    },
+    {
+        "status": "ack",
+        "level": "ERROR",
+        "title": "Wharf offline",
+        "message": "CPU has been overheat for over 1 hour.",
+        "occurances": [1574974169],
+        "source": "services-watcher"
+    },
+    {
+        "status": "ack",
+        "level": "INFO",
+        "title": "Wharf offline",
+        "message": "CPU has been overheat for over 1 hour.",
+        "occurances": [1574974169],
+        "source": "services-watcher"
+    }
+]
